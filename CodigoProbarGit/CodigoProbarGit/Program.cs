@@ -12,6 +12,7 @@ namespace CodigoProbarGit
         {
             int x;
             x = 0;
+            Console.WriteLine(" Hai bich ");
         }
     }
 }
